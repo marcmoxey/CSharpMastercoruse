@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\ConditionalStatementsHomeworkApp\ConditionalStatementsHomework\bin\Debug\net8.0\ConditionalStatementsHomework.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\ConditionalStatementsHomeworkApp\ConditionalStatementsHomework\bin\Debug\net8.0\ConditionalStatementsHomework.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\ConditionalStatementsHomeworkApp\ConditionalStatementsHomework\bin\Debug\net8.0\ConditionalStatementsHomework.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\ConditionalStatementsHomeworkApp\ConditionalStatementsHomework\bin\Debug\net8.0\ConditionalStatementsHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\ConditionalStatementsHomeworkApp\ConditionalStatementsHomework\bin\Debug\net8.0\ConditionalStatementsHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\ConditionalStatementsHomeworkApp\ConditionalStatementsHomework\obj\Debug\net8.0\ConditionalStatementsHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\ConditionalStatementsHomeworkApp\ConditionalStatementsHomework\obj\Debug\net8.0\ConditionalStatementsHomework.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\ConditionalStatementsHomeworkApp\ConditionalStatementsHomework\obj\Debug\net8.0\ConditionalStatementsHomework.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\ConditionalStatementsHomeworkApp\ConditionalStatementsHomework\obj\Debug\net8.0\ConditionalStatementsHomework.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\ConditionalStatementsHomeworkApp\ConditionalStatementsHomework\obj\Debug\net8.0\ConditionalStatementsHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\ConditionalStatementsHomeworkApp\ConditionalStatementsHomework\obj\Debug\net8.0\refint\ConditionalStatementsHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\ConditionalStatementsHomeworkApp\ConditionalStatementsHomework\obj\Debug\net8.0\ConditionalStatementsHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\ConditionalStatementsHomeworkApp\ConditionalStatementsHomework\obj\Debug\net8.0\ConditionalStatementsHomework.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\ConditionalStatementsHomeworkApp\ConditionalStatementsHomework\obj\Debug\net8.0\ref\ConditionalStatementsHomework.dll

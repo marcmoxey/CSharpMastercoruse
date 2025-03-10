@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\StaticClassesHomeworkApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C4C10B-4B4E-4052-8140-45759A8F2849}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\moxey\\source\\repos\\csharpmastercoruse\\07week\\staticclasseshomeworkapp\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C4C10B-4B4E-4052-8140-45759A8F2849}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C4C10B-4B4E-4052-8140-45759A8F2849}|ConsoleUI\\ConsoleUI.csproj|C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\StaticClassesHomeworkApp\\ConsoleUI\\UserMessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C4C10B-4B4E-4052-8140-45759A8F2849}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:ConsoleUI\\UserMessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C4C10B-4B4E-4052-8140-45759A8F2849}|ConsoleUI\\ConsoleUI.csproj|C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\StaticClassesHomeworkApp\\consoleui\\calculatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C4C10B-4B4E-4052-8140-45759A8F2849}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\calculatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C4C10B-4B4E-4052-8140-45759A8F2849}|ConsoleUI\\ConsoleUI.csproj|C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\StaticClassesHomeworkApp\\consoleui\\requestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C4C10B-4B4E-4052-8140-45759A8F2849}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\requestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestData.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\StaticClassesHomeworkApp\\ConsoleUI\\RequestData.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\RequestData.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\StaticClassesHomeworkApp\\ConsoleUI\\RequestData.cs",
+              "RelativeToolTip": "ConsoleUI\\RequestData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:19:14.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculateData.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\StaticClassesHomeworkApp\\ConsoleUI\\CalculateData.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\CalculateData.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\StaticClassesHomeworkApp\\ConsoleUI\\CalculateData.cs",
+              "RelativeToolTip": "ConsoleUI\\CalculateData.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:46:01.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserMessages.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\StaticClassesHomeworkApp\\ConsoleUI\\UserMessages.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\UserMessages.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\StaticClassesHomeworkApp\\ConsoleUI\\UserMessages.cs",
+              "RelativeToolTip": "ConsoleUI\\UserMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:45:37.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\StaticClassesHomeworkApp\\ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\StaticClassesHomeworkApp\\ConsoleUI\\Program.cs",
+              "RelativeToolTip": "ConsoleUI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA3wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:45:12.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

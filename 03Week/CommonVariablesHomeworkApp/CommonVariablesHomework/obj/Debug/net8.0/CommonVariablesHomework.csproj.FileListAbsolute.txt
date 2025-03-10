@@ -1,0 +1,14 @@
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\CommonVariablesHomeworkApp\CommonVariablesHomework\bin\Debug\net8.0\CommonVariablesHomework.exe
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\CommonVariablesHomeworkApp\CommonVariablesHomework\bin\Debug\net8.0\CommonVariablesHomework.deps.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\CommonVariablesHomeworkApp\CommonVariablesHomework\bin\Debug\net8.0\CommonVariablesHomework.runtimeconfig.json
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\CommonVariablesHomeworkApp\CommonVariablesHomework\bin\Debug\net8.0\CommonVariablesHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\CommonVariablesHomeworkApp\CommonVariablesHomework\bin\Debug\net8.0\CommonVariablesHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\CommonVariablesHomeworkApp\CommonVariablesHomework\obj\Debug\net8.0\CommonVariablesHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\CommonVariablesHomeworkApp\CommonVariablesHomework\obj\Debug\net8.0\CommonVariablesHomework.AssemblyInfoInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\CommonVariablesHomeworkApp\CommonVariablesHomework\obj\Debug\net8.0\CommonVariablesHomework.AssemblyInfo.cs
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\CommonVariablesHomeworkApp\CommonVariablesHomework\obj\Debug\net8.0\CommonVariablesHomework.csproj.CoreCompileInputs.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\CommonVariablesHomeworkApp\CommonVariablesHomework\obj\Debug\net8.0\CommonVariablesHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\CommonVariablesHomeworkApp\CommonVariablesHomework\obj\Debug\net8.0\refint\CommonVariablesHomework.dll
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\CommonVariablesHomeworkApp\CommonVariablesHomework\obj\Debug\net8.0\CommonVariablesHomework.pdb
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\CommonVariablesHomeworkApp\CommonVariablesHomework\obj\Debug\net8.0\CommonVariablesHomework.genruntimeconfig.cache
+C:\Users\moxey\source\repos\CSharpMastercoruse\03Week\CommonVariablesHomeworkApp\CommonVariablesHomework\obj\Debug\net8.0\ref\CommonVariablesHomework.dll

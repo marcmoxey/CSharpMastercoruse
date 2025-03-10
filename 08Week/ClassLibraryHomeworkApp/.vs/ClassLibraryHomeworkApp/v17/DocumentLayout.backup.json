@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\08Week\\ClassLibraryHomeworkApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38878595-E813-45BF-A087-A4C77CB8C1BB}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\moxey\\source\\repos\\csharpmastercoruse\\08week\\classlibraryhomeworkapp\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38878595-E813-45BF-A087-A4C77CB8C1BB}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031AD7B7-BCA3-40BF-A3D6-D227A74839B2}|PersonLibrary\\PersonLibrary.csproj|c:\\users\\moxey\\source\\repos\\csharpmastercoruse\\08week\\classlibraryhomeworkapp\\personlibrary\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031AD7B7-BCA3-40BF-A3D6-D227A74839B2}|PersonLibrary\\PersonLibrary.csproj|solutionrelative:personlibrary\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\08Week\\ClassLibraryHomeworkApp\\PersonLibrary\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "PersonLibrary\\Models\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\08Week\\ClassLibraryHomeworkApp\\PersonLibrary\\Models\\PersonModel.cs",
+              "RelativeToolTip": "PersonLibrary\\Models\\PersonModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:23:25.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\08Week\\ClassLibraryHomeworkApp\\ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\08Week\\ClassLibraryHomeworkApp\\ConsoleUI\\Program.cs",
+              "RelativeToolTip": "ConsoleUI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:22:04.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\NamespaceHomeworkApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64A24CC7-EA06-4B78-830A-54A80C4E9AD9}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\moxey\\source\\repos\\csharpmastercoruse\\07week\\namespacehomeworkapp\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A24CC7-EA06-4B78-830A-54A80C4E9AD9}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A24CC7-EA06-4B78-830A-54A80C4E9AD9}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\moxey\\source\\repos\\csharpmastercoruse\\07week\\namespacehomeworkapp\\consoleui\\usermessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A24CC7-EA06-4B78-830A-54A80C4E9AD9}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\usermessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A24CC7-EA06-4B78-830A-54A80C4E9AD9}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\moxey\\source\\repos\\csharpmastercoruse\\07week\\namespacehomeworkapp\\consoleui\\mathshortcut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A24CC7-EA06-4B78-830A-54A80C4E9AD9}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\mathshortcut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A24CC7-EA06-4B78-830A-54A80C4E9AD9}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\moxey\\source\\repos\\csharpmastercoruse\\07week\\namespacehomeworkapp\\consoleui\\model\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A24CC7-EA06-4B78-830A-54A80C4E9AD9}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\model\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathShortcut.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\NamespaceHomeworkApp\\ConsoleUI\\MathShortcut.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\MathShortcut.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\NamespaceHomeworkApp\\ConsoleUI\\MathShortcut.cs",
+              "RelativeToolTip": "ConsoleUI\\MathShortcut.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:48:54.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserMessages.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\NamespaceHomeworkApp\\ConsoleUI\\UserMessages.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\UserMessages.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\NamespaceHomeworkApp\\ConsoleUI\\UserMessages.cs",
+              "RelativeToolTip": "ConsoleUI\\UserMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:45:47.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\NamespaceHomeworkApp\\ConsoleUI\\Model\\PersonModel.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Model\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\NamespaceHomeworkApp\\ConsoleUI\\Model\\PersonModel.cs",
+              "RelativeToolTip": "ConsoleUI\\Model\\PersonModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:45:23.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\NamespaceHomeworkApp\\ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\07Week\\NamespaceHomeworkApp\\ConsoleUI\\Program.cs",
+              "RelativeToolTip": "ConsoleUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:45:06.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

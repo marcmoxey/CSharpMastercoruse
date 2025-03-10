@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\InstantiatedClassesDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA1CDEE-4D6D-479B-8648-12EC4A66F374}|ConsoleUI\\ConsoleUI.csproj|C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\InstantiatedClassesDemo\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA1CDEE-4D6D-479B-8648-12EC4A66F374}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA1CDEE-4D6D-479B-8648-12EC4A66F374}|ConsoleUI\\ConsoleUI.csproj|C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\InstantiatedClassesDemo\\consoleui\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA1CDEE-4D6D-479B-8648-12EC4A66F374}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA1CDEE-4D6D-479B-8648-12EC4A66F374}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\moxey\\source\\repos\\csharpmastercoruse\\instantiatedclassesdemo\\consoleui\\processperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA1CDEE-4D6D-479B-8648-12EC4A66F374}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\processperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessPerson.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\InstantiatedClassesDemo\\ConsoleUI\\ProcessPerson.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\ProcessPerson.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\InstantiatedClassesDemo\\ConsoleUI\\ProcessPerson.cs",
+              "RelativeToolTip": "ConsoleUI\\ProcessPerson.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T19:45:52.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\InstantiatedClassesDemo\\ConsoleUI\\PersonModel.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\InstantiatedClassesDemo\\ConsoleUI\\PersonModel.cs",
+              "RelativeToolTip": "ConsoleUI\\PersonModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA6wBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:29:44.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\InstantiatedClassesDemo\\ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\moxey\\source\\repos\\CSharpMastercoruse\\InstantiatedClassesDemo\\ConsoleUI\\Program.cs",
+              "RelativeToolTip": "ConsoleUI\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:26:07.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
